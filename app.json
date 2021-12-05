@@ -1,6 +1,7 @@
 {
   "name": "Mention All Bot",
   "description": "A simple mention all for telegram.",
+  "logo": "https://telegra.ph/file/4219866eba63bcac65527.jpg",
   "env": {
     "TOKEN": {
       "description": "Enter bot token.",
