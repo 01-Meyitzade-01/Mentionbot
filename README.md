@@ -3,7 +3,7 @@
 
 # Mention All Bot
 _**This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !**_
-_**Made with 💕 by [@Lunatic0de](https://t.me/@Lunatic0de). <br />
+
 ### 🏷 Infomation
 - Language: Python.
 - Telegram Library: Telethon.
@@ -15,4 +15,5 @@ _**Made with 💕 by [@Lunatic0de](https://t.me/@Lunatic0de). <br />
 - [Zaen](https://github.com/Zaen-ubot) for this Project ;)
 
 **Do not forget to follow me on Github ✌️**
-Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
+
+*Made with 💕 by [@Lunatic0de](https://t.me/Lunatic0de). <br />
