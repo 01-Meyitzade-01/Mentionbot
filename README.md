@@ -15,3 +15,4 @@ _**Made with 💕 by [@Lunatic0de](https://t.me/@Lunatic0de). <br />
 - [Zaen](https://github.com/Zaen-ubot) for this Project ;)
 
 **Do not forget to follow me on Github ✌️**
+Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
