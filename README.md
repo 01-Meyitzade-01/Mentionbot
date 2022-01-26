@@ -16,4 +16,4 @@ _**This bot can mention members upto 10,000 in groups and can mention members up
 
 **Do not forget to follow me on Github ✌️**
 
-*Made with ✨ by [@Lunatic0de](https://t.me/Lunatic0de). <br />
+*Made with ✨ by [Zaen](https://t.me/TeleUdahRusak). <br />
